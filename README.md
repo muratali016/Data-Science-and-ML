@@ -1,2 +1,2 @@
 # Data-Science-and-ML
-Zero to Mastery Complete Ml and Data Science Bootcamp 2022
+Zero to Mastery Complete ML and Data Science Bootcamp 2022
